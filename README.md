@@ -18,4 +18,6 @@ BAEKJOON problem by daeun✨
       - 몫과 나머지로 반복되는 패턴을 찾아보자 ! 
 
 
-## 2. Graph 
+## 2. Graph (BFS, DFS) 
+
+
