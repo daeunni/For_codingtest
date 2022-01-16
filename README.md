@@ -1,5 +1,6 @@
 # For_codingtest
-BAEKJOON problem by daeun✨
+BAEKJOON problem by daeun✨        
+My [useful functions!](https://daeun-computer-uneasy.tistory.com/42) 
 
 
 
