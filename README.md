@@ -20,10 +20,13 @@ My [useful functions!](https://daeun-computer-uneasy.tistory.com/42)
 
 
 ## 2. Graph (BFS, DFS) 
-- BFS : 큐(선입선출)를 이용하기 
-  > '최단거리'를 구할 때 주로 이용
 
-- DFS : 스택(후입선출)을 이용하기 + **재귀함수** ! ⭐️
+- **단방향** 그래프 나타내기 : 2차원리스트로 node별 연결된 edge 연결리스트를 만든다 
+
+- **BFS** : 큐(선입선출)를 이용하기 
+  > 모든 edge의 weight가 **같을 때** 최단거리를 구하기 
+
+- **DFS** : 스택(후입선출)을 이용하기 + **재귀함수** ! ⭐️
 
 
 ## 3. Dynamic Programming 
