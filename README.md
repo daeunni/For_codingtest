@@ -2,6 +2,9 @@
 BAEKJOON problem by daeun✨        
 My [useful functions!](https://daeun-computer-uneasy.tistory.com/42) 
 
+## 0. My goals🍀
+- [ ] 2월까지 백준 100문제 풀기 
+
 
 
 ## 1. Greedy 
