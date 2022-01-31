@@ -4,7 +4,7 @@ My [useful functions!](https://daeun-computer-uneasy.tistory.com/42)
 
 ## 0. My goals🍀
 - [ ] 2월까지 백준 100문제 풀기 
-
+- [ ] 알고리즘 대회 
 
 
 ## 1. Greedy 
@@ -32,5 +32,5 @@ My [useful functions!](https://daeun-computer-uneasy.tistory.com/42)
 - **DFS** : 스택(후입선출)을 이용하기 + **재귀함수** ! ⭐️
 
 
-## 3. Dynamic Programming 
+
 
