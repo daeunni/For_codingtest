@@ -29,6 +29,12 @@ BAEKJOON problem by daeun✨
 
 - **DFS** : 스택(후입선출)을 이용하기 + **재귀함수** ! ⭐️
 
+- My solution✨   
+
+      - 상하좌우 이동 유형이 자주 출제됨 
+
+
+## 3. Dynamic Programming 
 
 
 
