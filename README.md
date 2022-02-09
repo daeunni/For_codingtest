@@ -36,5 +36,8 @@ BAEKJOON problem by daeun✨
 
 ## 3. Dynamic Programming 
 
+- 큰 문제를 작은 문제로 나눌 수 있고, 작은 문제의 해답을 재탕할 수 있을 때 
+- 하향식(Top-Down) : 큰 문제에서 작은 문제 ➡️ **재귀함수** 이용 (메모이제이션, memoization)
+- 상향식(Bottom-Up) : 작은 문제에서 큰문제 ➡️ **반복문** 이용 (결과 저장용 DP 테이블 이용) 
 
 
