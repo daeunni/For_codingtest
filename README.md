@@ -2,7 +2,7 @@
 BAEKJOON problem by daeun✨        
 [참고하면 도움이 되는 자잘한 tip들 ! ](https://github.com/daeunni/For_codingtest/blob/main/tips.md)
 
-## 0. My goals🍀
+## 0. My goals
 - [ ] 2월까지 백준 100문제 풀기 
 
 
