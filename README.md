@@ -42,3 +42,7 @@ BAEKJOON problem by daeun✨
 - 상향식(Bottom-Up) : 작은 문제에서 큰문제 ➡️ **반복문** 이용 (결과 저장용 DP 테이블 이용) 
 
   > DP 문제인지 아는게 중요함 ! 중복여부를 확인하자 !
+
+
+
+## 4. Sort
