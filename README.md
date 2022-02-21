@@ -1,7 +1,8 @@
 # For_codingtest
 BAEKJOON problem by daeun✨        
+[참고하면 도움이 되는 자잘한 tip들 ! ](https://github.com/daeunni/For_codingtest/blob/main/tips.md)
 
-## 0. My goals🍀
+## 0. My goals
 - [ ] 2월까지 백준 100문제 풀기 
 
 
@@ -41,3 +42,7 @@ BAEKJOON problem by daeun✨
 - 상향식(Bottom-Up) : 작은 문제에서 큰문제 ➡️ **반복문** 이용 (결과 저장용 DP 테이블 이용) 
 
   > DP 문제인지 아는게 중요함 ! 중복여부를 확인하자 !
+
+
+
+## 4. Sort
