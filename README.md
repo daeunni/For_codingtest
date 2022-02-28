@@ -48,4 +48,6 @@ BAEKJOON problem by daeun✨
 ## 4. Shortest path
 
 - `다익스트라` : edge가 모두 양수일 때
+  - O(V^2) : 최단거리를 선형적으로 탐색
+  - O(ElogV) : 
 
