@@ -49,5 +49,5 @@ BAEKJOON problem by daeun✨
 
 - `다익스트라` : edge가 모두 양수일 때
   - O(V^2) : 최단거리를 선형적으로 탐색
-  - O(ElogV) : 
+  - O(ElogV) : 우선순위 큐(우선순위가 가장 높은 데이터를 가장 먼저 삭제, 주로 heap으로 구현) 이용
 
