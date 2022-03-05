@@ -13,3 +13,17 @@ https://app.codility.com/demo/results/trainingUSR4EG-AUS/
 
 - 홀수 원소개수 리스트에서 혼자 남는 값 찾기 
 https://app.codility.com/demo/results/trainingWFS3EU-Z35/
+
+
+### Lesson 3
+- 현재에서 도착지점까지 최소 점프수를 반환     
+https://app.codility.com/demo/results/training9FXCBA-XS4/
+
+- 리스트 내 빠진 원소 구하기    
+https://app.codility.com/demo/results/trainingZKECCT-YNY/
+
+- P를 중심으로 양쪽으로 리스트를 나눈 후, 합에 대해 연산해 최솟값 반환하기      
+https://app.codility.com/demo/results/trainingPC22VS-TK4/
+
+
+### Lesson 4 
