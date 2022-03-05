@@ -1,6 +1,8 @@
 # For_codingtest
 BAEKJOON problem by daeun✨        
-[참고하면 도움이 되는 자잘한 tip들 ! ](https://github.com/daeunni/For_codingtest/blob/main/tips.md)
+
+[자잘한 tip들은 여기에](https://github.com/daeunni/For_codingtest/blob/main/tips.md)        
+[고려하면 좋을 반례들은 여기에](https://github.com/daeunni/For_codingtest/blob/main/Codility/%EA%B3%A0%EB%A0%A4%ED%95%A0%20%EB%8C%80%ED%91%9C%20%EB%B0%98%EB%A1%80%EB%93%A4.md)
 
 ## 0. My goals
 - [ ] 2월까지 백준 100문제 풀기 
