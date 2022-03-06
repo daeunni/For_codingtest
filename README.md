@@ -1,5 +1,5 @@
 # For_codingtest
-BAEKJOON problem by daeun✨        
+다은이의 알고리즘 아카이브 📝   
 
 [자잘한 tip들은 여기에](https://github.com/daeunni/For_codingtest/blob/main/tips.md)        
 [고려하면 좋을 반례들은 여기에](https://github.com/daeunni/For_codingtest/blob/main/Codility/%EA%B3%A0%EB%A0%A4%ED%95%A0%20%EB%8C%80%ED%91%9C%20%EB%B0%98%EB%A1%80%EB%93%A4.md)
