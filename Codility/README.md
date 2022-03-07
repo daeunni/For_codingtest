@@ -40,3 +40,11 @@ https://app.codility.com/demo/results/training42EYSC-2DG/
 
 
 ### ✔️ Lesson 6. Sorting
+- 리스트 내 distinct한 원소 개수 찾기          
+https://app.codility.com/demo/results/training6BTEZV-A23/
+
+- 리스트 내 3가지 원소들의 곱 중 max값 리턴     
+https://app.codility.com/demo/results/training9ME8PZ-4TB/
+
+
+
