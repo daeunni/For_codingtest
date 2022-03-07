@@ -46,5 +46,21 @@ https://app.codility.com/demo/results/training6BTEZV-A23/
 - 리스트 내 3가지 원소들의 곱 중 max값 리턴     
 https://app.codility.com/demo/results/training9ME8PZ-4TB/
 
+- 리스트 내 3가지 원소를 골라 삼각형의 3가지 조건을 모두 만족하는지 여부 확인        
+https://app.codility.com/demo/results/trainingT7N2QA-DGF/
 
+### ✔️ Lesson 7. Stacks and Queues
+- 스택을 이용한 문자열 대칭 판단       
+https://app.codility.com/demo/results/training4M32DF-XR7/
+
+
+### ✔️ Lesson 8. Leader
+- 리스트 내 과반수 이상 등장하는 원소의 인덱스 리턴      
+https://app.codility.com/demo/results/trainingPD7WHK-K9Q/
+
+- 리스트를 두 부분으로 나누고 두 부분의 leader가 같은 split 지점의 개수를 찾기 `Timeout`  
+
+
+### ✔️ Lesson 9. Maximum slice problem   
+- 
 
