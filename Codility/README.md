@@ -62,5 +62,6 @@ https://app.codility.com/demo/results/trainingPD7WHK-K9Q/
 
 
 ### ✔️ Lesson 9. Maximum slice problem   
-- 
+- 리스트 내 인덱스를 유지하며 이익의 최댓값 구하기 `중요한 아이디어`     
+https://app.codility.com/demo/results/trainingA6DFBZ-P7P/
 
