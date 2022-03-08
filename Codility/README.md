@@ -1,6 +1,5 @@
 # NAVER Coding Test 준비하기 🍀
-
-문제 좀 잘읽자.... 제발.....
+> Codility Easy 난이도 문제 모음 
 
 ### ✔️ Lesson 1. Iterations
 - 이진수 표현에서 가장 큰 1사이 0의 개수      
@@ -65,3 +64,20 @@ https://app.codility.com/demo/results/trainingPD7WHK-K9Q/
 - 리스트 내 인덱스를 유지하며 이익의 최댓값 구하기 `중요한 아이디어`     
 https://app.codility.com/demo/results/trainingA6DFBZ-P7P/
 
+
+### ✔️ Lesson 10. Prime and composite numbers
+- 약수 개수 O(sqrt(N)) 복잡도로 구하기    
+https://app.codility.com/demo/results/trainingJJJQ4G-ZNY/
+
+
+### ✔️ Lesson 12. Euclidean algorithm
+- 최대공약수의 배수 구하기 (유클리드 호제법)    
+https://app.codility.com/demo/results/trainingNQRT59-SWA/
+
+
+### ✔️ Lesson 15. Caterpillar method
+- 리스트 내 고유한 절댓값의 개수 세기 
+
+### ✔️ Lesson 16. Greedy
+- 전형적인 스케쥴링 문제 (중첩하지 않고 가장 많은 리스트 요소 담기)           
+https://app.codility.com/demo/results/trainingHCNURV-63W/
