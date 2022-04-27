@@ -8,8 +8,7 @@
 - 특정 배수를 지워가는 식으로 전개된다. 
 
 ```python
-def era(n):
-  n = max(nums)
+def era(n):   # n : 몇까지 탐색할지 
   a = [False, False] + [True] * (n-1)
   
   primes = []
