@@ -8,7 +8,11 @@
 - 특정 배수를 지워가는 식으로 전개된다. 
 
 ```python
-def era(n):   # n : 몇까지 탐색할지 
+def era(n):   
+  """
+  Input : 몇까지 탐색할지 
+  Output : n까지 숫자 중 소수를 포함한 리스트 
+  """
   a = [False, False] + [True] * (n-1)
   
   primes = []
@@ -22,4 +26,16 @@ def era(n):   # n : 몇까지 탐색할지
 
 
 ## 2. 유클리드 호제법 
-- 최대공약수 구하기 
+- 최대공약수, 최소공배수 구하기 
+```python
+def gcd(n, m):
+
+  """
+  Input : 두 수
+  Output : 두 수의 최대공약수 
+  """
+  while m : 
+    n, m = m, n%m
+  return n
+```
+
