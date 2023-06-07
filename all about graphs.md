@@ -1,4 +1,12 @@
 # Awesome graph algorithms templates! 🌟
+## [0] Inputs 
+```python
+nodes = input().split()
+num_nodes = len(districts)
+adj_matrix = []
+for _ in range(num_districts):   # 2D lists
+    adj_matrix.append(list(map(int, input().split())))
+```
 
 ## [1] 그래프 순회 
 ### BFS
