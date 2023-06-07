@@ -1,10 +1,11 @@
 # For_codingtest
-다은이의 알고리즘 아카이브 📝   
-       
+> This repo contains useful algorithm problems & templates for coding tests 📚
 [All about graphs - Use these templates !! 🌟](https://github.com/daeunni/For_codingtest/blob/main/all%20about%20graphs.md)
 
-# Summary 
-## 1. Greedy 
+
+----------
+## 💬 Summary 
+### 1. Greedy 
 
 - 현재 상황에서 가장 좋아보이는 것을 선택 
 
@@ -19,7 +20,7 @@
       - 몫과 나머지로 반복되는 패턴을 찾아보자 ! 
 
 
-## 2. Graph (BFS, DFS) 
+### 2. Graph (BFS, DFS) 
 
 - **단방향** 그래프 나타내기 : 2차원리스트로 node별 연결된 edge 연결리스트를 만든다 
 
@@ -33,7 +34,7 @@
       - 상하좌우 이동 유형이 자주 출제됨 
 
 
-## 3. Dynamic Programming 
+### 3. Dynamic Programming 
 
 - 큰 문제를 작은 문제로 나눌 수 있고, 작은 문제의 해답을 재탕할 수 있을 때 
 - 하향식(Top-Down) : 큰 문제에서 작은 문제 ➡️ `재귀함수` 이용 (메모이제이션, memoization)
@@ -43,7 +44,7 @@
 
 
 
-## 4. Shortest path
+### 4. Shortest path
 
 - `다익스트라` : edge가 모두 양수일 때
   - O(V^2) : 최단거리를 선형적으로 탐색
