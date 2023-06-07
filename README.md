@@ -1,16 +1,9 @@
 # For_codingtest
 다은이의 알고리즘 아카이브 📝   
+       
+[All about graphs - Use these templates !! 🌟](https://github.com/daeunni/For_codingtest/blob/main/all%20about%20graphs.md)
 
-[자잘한 tip들은 여기에](https://github.com/daeunni/For_codingtest/blob/main/tips.md)        
-[고려하면 좋을 반례들은 여기에](https://github.com/daeunni/For_codingtest/blob/main/Codility/%EA%B3%A0%EB%A0%A4%ED%95%A0%20%EB%8C%80%ED%91%9C%20%EB%B0%98%EB%A1%80%EB%93%A4.md)
-
-## 0. My goals
-- [ ] 시간복잡도, 공간복잡도 구하는 법 완벽히 공부!
-- [ ] 휴학 후 골드달성✨
-- [x] Codility Lesson(Easy) 모두 준비 
-- [x] 2월까지 백준 50문제 풀기 
-
-
+### Summary 
 ## 1. Greedy 
 
 - 현재 상황에서 가장 좋아보이는 것을 선택 
