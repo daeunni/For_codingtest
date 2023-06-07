@@ -1,5 +1,6 @@
 # Awesome graph algorithms templates! 🌟
 ## [0] Inputs 
+- General input format using coding test 
 ```python
 nodes = input().split()
 num_nodes = len(districts)
@@ -7,6 +8,19 @@ adj_matrix = []
 for _ in range(num_districts):   # 2D lists
     adj_matrix.append(list(map(int, input().split())))
 ```
+- When you want to change input 2 dictionary graph format 
+```python
+def inputs2dicts(starts, ends, node_names) : 
+  graphs = {}
+  for key in node_names : 
+    values = []
+    for i, k in enumerate(starts) : 
+      if k == key : 
+        values.append(ends[i])
+    graphs[key] = values
+  return graphs 
+```
+
 
 ## [1] 그래프 순회 
 ### BFS
