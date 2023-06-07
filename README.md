@@ -3,7 +3,7 @@
        
 [All about graphs - Use these templates !! 🌟](https://github.com/daeunni/For_codingtest/blob/main/all%20about%20graphs.md)
 
-### Summary 
+# Summary 
 ## 1. Greedy 
 
 - 현재 상황에서 가장 좋아보이는 것을 선택 
